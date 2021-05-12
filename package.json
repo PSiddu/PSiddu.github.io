@@ -2,6 +2,7 @@
   "name": "personal-website",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://PSiddu.github.io",
   "dependencies": {
     "@chakra-ui/icons": "^1.0.12",
     "@chakra-ui/react": "^1.6.0",
