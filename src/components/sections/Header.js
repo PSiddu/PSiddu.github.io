@@ -79,7 +79,7 @@ const Header = (props) => {
           <MenuItems to="#/pprojects">Programming Projects </MenuItems>
           <MenuItems to="#/awards">Awards and Experiences </MenuItems>
           <MenuItems to="#/other">Other Projects </MenuItems>
-          <MenuItems to="../../assets/Siddhardh_Palparthi.pdf">
+          <MenuItems to="https://drive.google.com/file/d/1LwumDL1eGi4Tc9rLTKGxdiEIuB3iGOi9/view?usp=sharing">
             Resume
           </MenuItems>
 
