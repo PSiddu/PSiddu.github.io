@@ -110,7 +110,7 @@ export default function About() {
         paddingLeft={["40px", "40px", "40px", "200px"]}
         paddingRight={["40px", "40px", "40px", "200px"]}
       >
-        Currently, I am in my 2A term at the University of Waterloo for Computer
+        Currently, I am in my 2B term at the University of Waterloo for Computer
         Science. My inspiration for entering this field is its evolving and
         mysterious nature, and a desire to be a part of the future.
       </Heading>

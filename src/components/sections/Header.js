@@ -4,6 +4,7 @@ import { Switch, useColorMode, Divider } from "@chakra-ui/react";
 import { FaRegMoon } from "react-icons/fa";
 import { FiSun } from "react-icons/fi";
 import { LinkBox, LinkOverlay } from "@chakra-ui/react";
+import Pdf from "../../../src/SiddhardhPalaparthi.pdf";
 
 // Header is all under one function
 const Header = (props) => {
@@ -79,7 +80,7 @@ const Header = (props) => {
           <MenuItems to="#/pprojects">Programming Projects </MenuItems>
           <MenuItems to="#/awards">Awards and Experiences </MenuItems>
           <MenuItems to="#/other">Other Projects </MenuItems>
-          <MenuItems to="https://drive.google.com/file/d/1LwumDL1eGi4Tc9rLTKGxdiEIuB3iGOi9/view">
+          <MenuItems to={Pdf} target="_blank">
             Resume
           </MenuItems>
 
