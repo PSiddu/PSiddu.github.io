@@ -37,7 +37,7 @@ export default function YbdcWebsite() {
               //align="center"
               src={img}
               size="100%"
-              width="300px"
+              width="400px"
               rounded="1rem"
               border="1px"
               //shadow="2xl"
@@ -80,7 +80,8 @@ export default function YbdcWebsite() {
           <Text>
             I was in charge of the Front-End of this website, working with a
             team of UI designers and back-end developers to bring our site to
-            life. The expected roll-out for the website is the end of May 2021.
+            life until I left my development duties in March 2021 to focus on
+            school.
           </Text>
 
           <Link

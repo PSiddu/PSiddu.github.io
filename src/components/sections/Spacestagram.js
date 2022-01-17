@@ -10,13 +10,12 @@ import {
   Link,
 } from "@chakra-ui/react";
 import { ExternalLinkIcon } from "@chakra-ui/icons";
-import img from "../../assets/fortunext1.JPG";
+import img from "../../assets/spacestagram.jpg";
 
-export default function Fortunext() {
+export default function Spacestagram() {
   const { colorMode } = useColorMode();
   var color_str = "";
   colorMode === "light" ? (color_str = "#e5e4e2") : (color_str = "#4f5b66");
-
   return (
     <Box
       maxW={["none", "none", "none", "75%"]}
@@ -46,48 +45,52 @@ export default function Fortunext() {
           </Flex>
         </Stack>
         <Stack direction="column" padding="2">
-          <Heading paddingTop="10px" fontSize="32px">
-            Fortunext
+          <Heading paddingTop="10px">
+            Youth Book Drive Collective Website
           </Heading>
-
           <Stack justify={["none", "none", "none", "center"]} direction="row">
             <Box
-              backgroundColor={colorMode === "light" ? "#ff8680" : "#cc0a00"}
+              backgroundColor={colorMode === "light" ? "#B4CDCD" : "#4A777A"}
               padding="2"
               borderRadius="1rem"
             >
-              <Text>Java</Text>
+              <Text>React</Text>
             </Box>
             <Box
-              backgroundColor={colorMode === "light" ? "#ff8680" : "#cc0a00"}
+              backgroundColor={colorMode === "light" ? "#FFF44F" : "#756609"}
               padding="2"
               borderRadius="1rem"
             >
-              <Text>Javax Swing</Text>
+              <Text>JavaScript</Text>
+            </Box>
+            <Box
+              backgroundColor={colorMode === "light" ? "#C6F6D5" : "#276749"}
+              padding="2"
+              borderRadius="1rem"
+            >
+              <Text>Chakra UI</Text>
             </Box>
           </Stack>
 
           <Text>
-            Fortunext is a Java flashcard program that serves as an educational
-            tool for people who wish to learn about Finance and Financial
-            Literacy. It's filled with terms and their definitions that you can
-            learn using the interactive "flash card" feature, where you press a
-            button to reveal a terms definition.
+            Spacestagram is a web app that gets photos from NASA’s Astronomy
+            Picture of the Day API, and shares them on a social media platform
+            with posts that can be liked and disliked and that have expandable
+            descriptions.
           </Text>
           <Text>
-            Winner of the 2018 AlphaHacks Fintech Hackathon, placing first out
-            of 75 engineers, high-schoolers, designers and business students.
-            Our submission also included a budget calculator website and a
-            Fintech dictionary Chrome extension which were created by other
-            members of my team.
+            This website was created for the Shopify Summer 2022 Front-End
+            Challenge. Some extra features that I chose to implement were a
+            date-picker with which you can search for posts between a certain
+            date and today, as well as dark and light theme functionality.
           </Text>
 
           <Link
-            href="https://github.com/PSiddu/Fortunext"
+            href="https://spacestagram-siddup.herokuapp.com/"
             isExternal
             paddingTop="10px"
           >
-            See GitHub Repo <ExternalLinkIcon mx="2px" />
+            See Site <ExternalLinkIcon mx="2px" />
           </Link>
         </Stack>
       </Stack>

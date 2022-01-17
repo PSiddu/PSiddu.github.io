@@ -38,7 +38,7 @@ export default function Connect4() {
               //align="center"
               src={img}
               size="100%"
-              width="300px"
+              width="400px"
               rounded="1rem"
               border="1px"
               //shadow="2xl"

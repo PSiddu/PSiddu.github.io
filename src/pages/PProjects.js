@@ -2,7 +2,8 @@ import React from "react";
 import { Stack, Heading } from "@chakra-ui/react";
 import Connect4 from "../components/sections/Connect4";
 import Fortunext from "../components/sections/Fortunext";
-import YbdcWebsite from "../components/sections/YbdcWebsite";
+// import YbdcWebsite from "../components/sections/YbdcWebsite";
+import Spacestagram from "../components/sections/Spacestagram";
 
 export default function PProject() {
   return (
@@ -27,9 +28,10 @@ export default function PProject() {
         align="center"
         spacing={3}
       >
-        <YbdcWebsite />
-        <Connect4 />
         <Fortunext />
+        <Spacestagram />
+        {/* <YbdcWebsite /> */}
+        <Connect4 />
       </Stack>
     </Stack>
   );
