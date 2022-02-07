@@ -45,9 +45,7 @@ export default function Spacestagram() {
           </Flex>
         </Stack>
         <Stack direction="column" padding="2">
-          <Heading paddingTop="10px">
-            Youth Book Drive Collective Website
-          </Heading>
+          <Heading paddingTop="10px">Spacestagram</Heading>
           <Stack justify={["none", "none", "none", "center"]} direction="row">
             <Box
               backgroundColor={colorMode === "light" ? "#B4CDCD" : "#4A777A"}
