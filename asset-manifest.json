@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.f7a4a2d6.chunk.js",
-    "main.js.map": "/static/js/main.f7a4a2d6.chunk.js.map",
+    "main.js": "/static/js/main.e57adb70.chunk.js",
+    "main.js.map": "/static/js/main.e57adb70.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e014a4b8.js",
     "runtime-main.js.map": "/static/js/runtime-main.e014a4b8.js.map",
-    "static/js/2.dfa760e1.chunk.js": "/static/js/2.dfa760e1.chunk.js",
-    "static/js/2.dfa760e1.chunk.js.map": "/static/js/2.dfa760e1.chunk.js.map",
+    "static/js/2.48e69bab.chunk.js": "/static/js/2.48e69bab.chunk.js",
+    "static/js/2.48e69bab.chunk.js.map": "/static/js/2.48e69bab.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.dfa760e1.chunk.js.LICENSE.txt": "/static/js/2.dfa760e1.chunk.js.LICENSE.txt",
+    "static/js/2.48e69bab.chunk.js.LICENSE.txt": "/static/js/2.48e69bab.chunk.js.LICENSE.txt",
     "static/media/Chem.b1722995.JPG": "/static/media/Chem.b1722995.JPG",
     "static/media/DECA.dde6cd53.jpg": "/static/media/DECA.dde6cd53.jpg",
     "static/media/Hackathon.d23657b8.png": "/static/media/Hackathon.d23657b8.png",
     "static/media/Honor Roll.1dbf9c38.JPG": "/static/media/Honor Roll.1dbf9c38.JPG",
     "static/media/MYP.af6b3dfb.jpeg": "/static/media/MYP.af6b3dfb.jpeg",
     "static/media/STEM.18fd407a.jpeg": "/static/media/STEM.18fd407a.jpeg",
-    "static/media/SiddhardhPalaparthi.29666f79.pdf": "/static/media/SiddhardhPalaparthi.29666f79.pdf",
+    "static/media/SiddhardhPalaparthi.b1efe684.pdf": "/static/media/SiddhardhPalaparthi.b1efe684.pdf",
     "static/media/YBDC.dbcc293b.JPG": "/static/media/YBDC.dbcc293b.JPG",
     "static/media/arm.c7680631.jpeg": "/static/media/arm.c7680631.jpeg",
     "static/media/badminton.3c23372c.jpg": "/static/media/badminton.3c23372c.jpg",
@@ -28,11 +28,12 @@
     "static/media/spacestagram.8a356a26.jpg": "/static/media/spacestagram.8a356a26.jpg",
     "static/media/squad.89e6a3c0.jpg": "/static/media/squad.89e6a3c0.jpg",
     "static/media/tea.788f7f53.jpg": "/static/media/tea.788f7f53.jpg",
+    "static/media/to-do-light.2698ca20.jpg": "/static/media/to-do-light.2698ca20.jpg",
     "static/media/ybdc_my_pic.e8441676.png": "/static/media/ybdc_my_pic.e8441676.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e014a4b8.js",
-    "static/js/2.dfa760e1.chunk.js",
-    "static/js/main.f7a4a2d6.chunk.js"
+    "static/js/2.48e69bab.chunk.js",
+    "static/js/main.e57adb70.chunk.js"
   ]
 }
