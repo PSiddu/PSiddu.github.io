@@ -4,6 +4,7 @@ import Connect4 from "../components/sections/Connect4";
 import Fortunext from "../components/sections/Fortunext";
 // import YbdcWebsite from "../components/sections/YbdcWebsite";
 import Spacestagram from "../components/sections/Spacestagram";
+import Lister from "../components/sections/Lister";
 
 export default function PProject() {
   return (
@@ -28,6 +29,7 @@ export default function PProject() {
         align="center"
         spacing={3}
       >
+        <Lister />
         <Fortunext />
         <Spacestagram />
         {/* <YbdcWebsite /> */}
