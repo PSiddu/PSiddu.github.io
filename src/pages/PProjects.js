@@ -5,6 +5,7 @@ import Fortunext from "../components/sections/Fortunext";
 // import YbdcWebsite from "../components/sections/YbdcWebsite";
 import Spacestagram from "../components/sections/Spacestagram";
 import Lister from "../components/sections/Lister";
+import UWRizz from "../components/sections/UWRizz";
 
 export default function PProject() {
   return (
@@ -30,6 +31,7 @@ export default function PProject() {
         spacing={3}
       >
         <Lister />
+        <UWRizz />
         <Fortunext />
         <Spacestagram />
         {/* <YbdcWebsite /> */}
