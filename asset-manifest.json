@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.a60ac625.js",
+    "main.js": "/static/js/main.bf341841.js",
     "static/media/MYP.jpeg": "/static/media/MYP.af6b3dfbfe5de313d9ce.jpeg",
     "static/media/Hackathon.png": "/static/media/Hackathon.d23657b8606b3f770348.png",
     "static/media/badminton.jpg": "/static/media/badminton.3c23372c697498b7149a.jpg",
@@ -17,17 +17,17 @@
     "static/media/YBDC.JPG": "/static/media/YBDC.dbcc293b111ab8155d3e.JPG",
     "static/media/Chem.JPG": "/static/media/Chem.b17229955e56a2fd2c65.JPG",
     "static/media/arm.jpeg": "/static/media/arm.c76806314a3efae42c15.jpeg",
-    "static/media/SiddhardhPalaparthi.pdf": "/static/media/SiddhardhPalaparthi.e366a7033c59736c4dc4.pdf",
     "static/media/Honor Roll.JPG": "/static/media/Honor Roll.1dbf9c38ff176f6ee649.JPG",
+    "static/media/SiddhardhPalaparthi.pdf": "/static/media/SiddhardhPalaparthi.49325a222592b60c1f81.pdf",
     "static/media/connect4.JPG": "/static/media/connect4.ec1153e7281f846cf5c9.JPG",
     "static/media/to-do-light.jpg": "/static/media/to-do-light.2698ca20854ef639a32d.jpg",
     "static/media/tea.jpg": "/static/media/tea.788f7f534a5dd1673cba.jpg",
     "static/media/uwrizz.jpg": "/static/media/uwrizz.1dac183e4cd254b1fe4d.jpg",
     "static/media/fortunext1.JPG": "/static/media/fortunext1.41036cbe31fddc0268de.JPG",
     "index.html": "/index.html",
-    "main.a60ac625.js.map": "/static/js/main.a60ac625.js.map"
+    "main.bf341841.js.map": "/static/js/main.bf341841.js.map"
   },
   "entrypoints": [
-    "static/js/main.a60ac625.js"
+    "static/js/main.bf341841.js"
   ]
 }
