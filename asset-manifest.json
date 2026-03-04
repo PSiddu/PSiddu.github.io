@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.bf341841.js",
+    "main.js": "/static/js/main.1dd2b7d8.js",
     "static/media/MYP.jpeg": "/static/media/MYP.af6b3dfbfe5de313d9ce.jpeg",
     "static/media/Hackathon.png": "/static/media/Hackathon.d23657b8606b3f770348.png",
     "static/media/badminton.jpg": "/static/media/badminton.3c23372c697498b7149a.jpg",
@@ -25,9 +25,9 @@
     "static/media/uwrizz.jpg": "/static/media/uwrizz.1dac183e4cd254b1fe4d.jpg",
     "static/media/fortunext1.JPG": "/static/media/fortunext1.41036cbe31fddc0268de.JPG",
     "index.html": "/index.html",
-    "main.bf341841.js.map": "/static/js/main.bf341841.js.map"
+    "main.1dd2b7d8.js.map": "/static/js/main.1dd2b7d8.js.map"
   },
   "entrypoints": [
-    "static/js/main.bf341841.js"
+    "static/js/main.1dd2b7d8.js"
   ]
 }
