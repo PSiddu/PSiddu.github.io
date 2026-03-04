@@ -84,7 +84,7 @@ export default function Spacestagram() {
           </Text>
 
           <Link
-            href="https://spacestagram-siddup.herokuapp.com/"
+            href="https://spacestagramsiddup.netlify.app/"
             isExternal
             paddingTop="10px"
           >
